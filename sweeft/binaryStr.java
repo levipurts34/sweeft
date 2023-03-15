@@ -2,7 +2,7 @@ import acm.program.ConsoleProgram;
 
 public class binaryStr extends ConsoleProgram{
 	public void run(){
-		println(binary("1011","11"));
+
 	}
 	private String binary(String a, String b){
 		String ans="";
