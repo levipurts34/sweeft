@@ -2,8 +2,7 @@ import acm.program.ConsoleProgram;
 
 public class singleNum extends ConsoleProgram {
 	public void run(){
-		int[] a={1,1,1,1,1,1,1,1,1,2};
-		println(singleNumber(a));
+		
 	}
 	public int singleNumber(int[] nums){
 		for(int i=0;i<nums.length;i++){
