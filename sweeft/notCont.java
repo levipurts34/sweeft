@@ -5,8 +5,7 @@ import acm.program.ConsoleProgram;
 
 public class notCont extends ConsoleProgram	{
 	public void run(){
-		int[] k={-3,-5,3,9,1,4,5,7,2,9};
-		println(notContains(k));
+	
 	}
 	private int notContains(int[] array){
 		ArrayList<Integer> answ = new ArrayList<Integer>();
