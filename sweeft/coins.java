@@ -2,7 +2,7 @@ import acm.program.ConsoleProgram;
 
 public class coins extends ConsoleProgram{
 	public void run(){
-		println(minSplit(50));
+		
 	}
 	int minSplit(int amount){
 		int[] coin={1,5,10,20,50};
