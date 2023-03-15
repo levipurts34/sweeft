@@ -2,7 +2,7 @@ import acm.program.ConsoleProgram;
 
 public class stears extends ConsoleProgram {
 	public void run(){
-		println(findStep(3));
+		
 	}
 	public int findStep(int n){
         if(n==0){
